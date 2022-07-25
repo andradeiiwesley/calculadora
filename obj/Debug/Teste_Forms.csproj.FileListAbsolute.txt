@@ -1,0 +1,10 @@
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\bin\Debug\Teste_Forms.exe.config
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\bin\Debug\Teste_Forms.exe
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\bin\Debug\Teste_Forms.pdb
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.csproj.AssemblyReference.cache
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.Form1.resources
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.Properties.Resources.resources
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.csproj.GenerateResource.cache
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.exe
+C:\Users\Wesley.Andrade\source\repos\Teste_Forms\obj\Debug\Teste_Forms.pdb
